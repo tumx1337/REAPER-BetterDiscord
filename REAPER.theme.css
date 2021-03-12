@@ -1,0 +1,10 @@
+//META{"name":"REAPER | ","description":"Made by: tumx#1337 - Based on the Nocturnal theme","author":"Team REAPER","version":"Auto Update | "}*//
+@import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+--primary: #c2c2c2;
+--primaryGradient2: rgba(255,255,255,0);
+--backgroundDark: #181818;
+--backgroundDarker: #14171f;
+}
